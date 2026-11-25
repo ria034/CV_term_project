@@ -1,5 +1,5 @@
 # CV_term_project
 GLOMAP + iMAC
-Arya Nandgude
-Eric Cao 
-Ria Mendes 
+//n Arya Nandgude
+//n Eric Cao 
+//n Ria Mendes 
